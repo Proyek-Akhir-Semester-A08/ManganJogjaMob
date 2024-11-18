@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mangan_jogja/screens/reservation_form.dart';
-import 'package:mangan_jogja/screens/reservepage.dart';
+import 'package:mangan_jogja/reserve/screens/reservation_form.dart';
+import 'package:mangan_jogja/reserve/screens/reservepage.dart';
 
 class ItemHomepage {
      final String name;

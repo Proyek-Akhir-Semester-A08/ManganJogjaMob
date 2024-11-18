@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:mangan_jogja/widgets/drawer.dart';
-import 'package:mangan_jogja/widgets/product_card.dart';
+import 'package:mangan_jogja/reserve/screens/product_card.dart';
 
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});

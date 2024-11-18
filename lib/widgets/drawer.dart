@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:mangan_jogja/screens/menu.dart';
-import 'package:mangan_jogja/screens/reservation_form.dart';
-import 'package:mangan_jogja/screens/reservepage.dart';
+import 'package:mangan_jogja/menu.dart';
+import 'package:mangan_jogja/reserve/screens/reservation_form.dart';
+import 'package:mangan_jogja/reserve/screens/reservepage.dart';
 
 class LeftDrawer extends StatelessWidget {
   const LeftDrawer({super.key});

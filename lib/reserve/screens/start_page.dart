@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:mangan_jogja/screens/login.dart';
-import 'package:mangan_jogja/screens/register.dart';
+import 'package:mangan_jogja/reserve/screens/login.dart';
+import 'package:mangan_jogja/reserve/screens/register.dart';
 import 'package:mangan_jogja/widgets/drawer.dart';
 
 class StartPage extends StatefulWidget {

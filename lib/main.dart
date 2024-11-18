@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mangan_jogja/screens/login.dart';
-import 'package:mangan_jogja/screens/reservation_form.dart';
-import 'package:mangan_jogja/screens/menu.dart';
-import 'package:mangan_jogja/screens/reservepage.dart';
-import 'package:mangan_jogja/screens/start_page.dart';
+import 'package:mangan_jogja/reserve/screens/start_page.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
 
